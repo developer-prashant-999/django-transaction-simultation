@@ -1,0 +1,11 @@
+.completed {
+    color: green;
+}
+
+.failed {
+    color: red;
+}
+
+.pending {
+    color: orange;
+}
